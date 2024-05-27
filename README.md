@@ -1,7 +1,6 @@
 ### Hi there, I'm Peter 👋
 
 - 👨‍💻 frontend developer / react / nextjs
-- 🎧 musician / ex dj, but sometimes im playing 4 my friends
 - 🍷 wine lover 
 - 🥘 thai food lover 🇹🇭
 - 🛫 travel lover
